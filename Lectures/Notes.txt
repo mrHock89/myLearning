@@ -1,0 +1,13 @@
+Array: 
+-> An array is a data structure that stores multiple items of data in a contiguous block of memory locations.
+-> All data in an array must be of the same type, such as an integer or string. 
+-> Arrays use an index system that starts at 0 and goes up to n-1, where n is the size of the array. 
+-> Arrays are used to store and organize data, and to help identify where each piece of data is located. 
+-> Arrays are used in almost every program and are among the oldest and most important data structures.
+-> Two-dimensional arrays are sometimes called matrices because they can represent a mathematical matrix as a two-dimensional grid.
+-> Array is linear.
+-> If we pass an array as argument reference is passed to the function
+
+Linear Search:
+-> Time Complexity : 0(n);
+-> Known as linear because of it's time complexity is linear.
